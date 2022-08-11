@@ -1,0 +1,30 @@
+
+
+body {
+  background-color: #1D1F13
+}
+h1 {
+  text-align: center; color: ; font-size: 60px; font-style: italic; color: #EB4434
+}
+h2 {
+  text-align: center; font-size: 40px; color: #1B589E
+}
+p {
+  text-align: justify; color: #1C7CEB; font-size: 35px
+}
+
+
+#imagemprincipal{
+
+  width: 30%;
+  margin: 50px;
+  border: black solid;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+
+}
+#frase{
+  border: 10px ridge yellow; margin: 70px
+}
